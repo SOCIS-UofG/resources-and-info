@@ -45,7 +45,7 @@ Tell someone who is in the `Admin` team to review the code and merge the pull re
 # Some To-dos
 Some to-dos. These were last updated May 2024.
 
-- [ ] Convert <form>'s to `react-hook-form` and `zod`
+- [ ] Convert `<form>`'s to `react-hook-form` and `zod`
 - [ ] Fix UI: Padding, more responsive on mobile, etc.
 - [ ] Migrate from Vercel Blob Storage to AWS S3 or another S3 provider (Vercel’s blob storage limits are too low)
 - [ ] Clean up the backend — i’m sure if you look around (especially in the account.socis.ca page) you’ll find some problems

@@ -56,6 +56,8 @@ Some to-dos. These were last updated May 2024.
 - [ ] hardware checkout system
 - [ ] socis.ca/about page needs a better design (most pages do also, get a designer to help maybe)
 
+- [ ] Implement `prisma.$transaction` for deleting users from the database and their profile photos from blob storage.
+
 ## Final Notes (from Tristan)
 Basically try to clean up the UI and the code. I'm sure there's a lot of bugs, you just need to play around to find them. If you ever need access to the database (Supabase, PostgreSQL), shoot me a DM on Discord @ realtristan
 

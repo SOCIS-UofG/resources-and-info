@@ -45,6 +45,9 @@ Tell someone who is in the `Admin` team to review the code and merge the pull re
 # Some To-dos
 Some to-dos. These were last updated May 2024.
 
+- [ ] Convert `auth.socis.ca` to use JWT for sign up link and password reset link (**THIS IS VERY IMPORTANT**)
+
+
 - [ ] Convert `<form>`'s to `react-hook-form` and `zod`
 - [ ] Fix UI: Padding, more responsive on mobile, etc.
 - [ ] Migrate from Vercel Blob Storage to AWS S3 or another S3 provider (Vercel’s blob storage limits are too low)

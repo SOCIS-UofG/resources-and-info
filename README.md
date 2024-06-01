@@ -1,5 +1,5 @@
-# Resources and Info
-Some resources and information regarding making changes and contributing to the website.
+# Resources and Todos
+Some resources regarding making changes and contributing to the website, as well as some todos.
 
 ## Resources
 ### Architecture Resources
@@ -46,7 +46,7 @@ Tell someone who is in the `Admin` team to review the code and merge the pull re
 Some to-dos. These were last updated May 2024.
 
 - [ ] Convert `auth.socis.ca` to use JWT for sign up link and password reset link (**THIS IS VERY IMPORTANT**)
-
+- [ ] Sign out button in `account.socis.ca`
 
 - [ ] Convert `<form>`'s to `react-hook-form` and `zod`
 - [ ] Fix UI: Padding, more responsive on mobile, etc.
